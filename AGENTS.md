@@ -44,7 +44,7 @@ The website should contain three main sections:
 ## 4. Design Guidelines
 
 - Use a clean, minimal, skincare-inspired design.
-- Main colors: cream white, sage green, and soft beige.
+- Main colors: baby blue (#DCEBF5), soft white (#F5F9FC), coffee brown (#725747), and milk tea brown (#A88B78).
 - Use consistent typography, spacing, and rounded cards.
 - The interface should support Traditional Chinese.
 - The website must be responsive on desktop and mobile devices.
