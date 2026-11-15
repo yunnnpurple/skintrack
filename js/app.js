@@ -158,7 +158,9 @@ document.addEventListener("DOMContentLoaded", () => {
   function renderProducts() {
     const container = document.getElementById("product-list");
     const products = getSortedProducts();
-
+   document.getElementById("product-count").textContent =
+      `目前收藏 ${products.length} 項保養品`;
+    
     if (products.length === 0) {
       container.innerHTML =
         "<p>目前還沒有保養品，先新增你的第一瓶吧！</p>";
